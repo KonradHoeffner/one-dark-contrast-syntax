@@ -1,12 +1,13 @@
 {
   "name": "dark-contrast-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A dark high contrast syntax theme",
   "keywords": [
     "dark",
     "contrast",
-    "syntax"
+    "syntax",
+    "black"
   ],
   "repository": "https://github.com/KonradHoeffner/dark-contrast-syntax",
   "license": "MIT",
