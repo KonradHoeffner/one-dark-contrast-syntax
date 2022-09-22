@@ -12,6 +12,6 @@
   "repository": "https://github.com/KonradHoeffner/dark-contrast-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">1.38.0"
   }
 }
