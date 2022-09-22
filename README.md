@@ -4,6 +4,6 @@
 
 This is a high contrast dark theme originally forked from the One Dark theme.  Use together with the [Dark Contrast syntax theme](https://github.com/KonradHoeffner/dark-contrast-syntax).
 
-Install by `git clone`-ing or downloading this repository into your `.atom/packages` directory.
-
+Install from within Atom in Settings -> Install -> Install Themes -> dark-contrast-syntax and then activate in Settings -> Themes.
+Alternatively, `git clone` or download this repository into your `.atom/packages` directory.
 
